@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Better Days",
+  "base_artist": "Liam Gallagher",
+  "createdAt": "2025-12-02T14:24:12.387880Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hold My Hand (Buckleys Even Better Days Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/01_Hold_My_Hand_(Buckleys_Even_Better_Days_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/02_Better_Days_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/03_Better_Days_Liam_Gallagher.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/04_Better_Days_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold My Hand (Buckley Boland \"Even Better Days\" remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/05_Hold_My_Hand_(Buckley_Boland__Even_Better_Days__remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/06_Better_Days_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(This Is for the) Better Days",
+      "artist": "The Bees",
+      "has_synced": true,
+      "path": "select/07_(This_Is_for_the)_Better_Days_The_Bees.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Mr Little Jeans",
+      "has_synced": true,
+      "path": "select/08_Better_Days_Mr_Little_Jeans.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Club 8",
+      "has_synced": false,
+      "path": "select/09_Better_Days_Club_8.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Radical Face",
+      "has_synced": true,
+      "path": "select/10_Better_Days_Radical_Face.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Days - Non-Album Track Remastered",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/11_Better_Days_-_Non-Album_Track_Remastered_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/12_Better_Days_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Days Comin'",
+      "artist": "Winger",
+      "has_synced": true,
+      "path": "select/13_Better_Days_Comin'_Winger.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Peter and the Wolf",
+      "has_synced": false,
+      "path": "select/14_Better_Days_Peter_and_the_Wolf.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/15_Better_Days_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/16_Better_Days_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Days (Not Included)",
+      "artist": "Donots",
+      "has_synced": false,
+      "path": "select/17_Better_Days_(Not_Included)_Donots.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Better Days",
+      "artist": "Roosevelt",
+      "has_synced": true,
+      "path": "select/18_Better_Days_Roosevelt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Better Days",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/pl_01_Better_Days_Liam_Gallagher.txt"
+    }
+  ]
+}
